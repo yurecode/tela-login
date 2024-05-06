@@ -35,6 +35,9 @@ body {
   padding: 10px;
   cursor: pointer;
   width: 30%;
+  .enter {
+    text-decoration: none;
+  }
 }
 
 .login-button:hover {
